@@ -1,0 +1,16 @@
+Firegram steps
+download starter files
+use npm install to add all required dependencies
+connect to firebase
+create uploadform.js
+create a form with type file
+using "onchange" in input add a function to handle change
+create a function to handle change with (e) as input
+e.target to select action
+under your uploadform function usestate arguments to set states
+const [file, setFiles] = usestate(null)
+set types of images and error messages
+
+
+
+
